@@ -1,0 +1,2 @@
+# Automating-Financial-Audit-and-Compliance-Processes-Using-Generative-AI-and-Azure-Tools
+Our solution leverages generative AI and Azure tools to automate financial audit and compliance processes. By integrating data, detecting anomalies, generating detailed reports, and continuously monitoring compliance, we enhance accuracy and efficiency, reduce manual intervention and costs, and ensure adherence to evolving regulatory standards.
